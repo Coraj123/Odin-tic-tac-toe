@@ -1,0 +1,18 @@
+#gameContainer {
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    grid-template-rows: 200px 200px 200px;
+    position: absolute;
+    left: 40%;
+    top: 30%;
+};
+
+#row1-box1 {
+   border: 5px solid black;
+   outline: 20px solid black;
+   outline-offset: -20px;
+};
+
+
+
+
